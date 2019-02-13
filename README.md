@@ -15,10 +15,10 @@ npm run pushyapk  往pushy上发布 android 安装包
 npm run pushy  发布热更新版本，执行命令后 选择 android/ios 
 
 
-pushy 名需要pushy登录后才能操作
+pushy 命令需要pushy登录后才能操作
 
 登录命令： pushy login
 
-pushy 地址：<a href='http://update.reactnative.cn' target="_blank">http://update.reactnative.cn</a>
+pushy 地址：<a href='http://update.reactnative.cn'>http://update.reactnative.cn</a>
 
 
